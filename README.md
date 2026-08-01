@@ -85,5 +85,4 @@ Where to look next
 - Flyway migrations: `src/main/resources/db/migration`
 - Integration tests: `src/test/java/com/vv/urlshortener/shortlink`
 
-If you want, I can also add a `docker-compose` development setup and a
-brief checklist for hardening this service for production.
+
