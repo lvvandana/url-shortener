@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.vv.urlshortener.shortlink.ShortLinkIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 10, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.987 s -- in com.vv.urlshortener.shortlink.ShortLinkIntegrationTest
