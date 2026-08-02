@@ -1,6 +1,0 @@
-HTTP/1.1 404 
-Content-Type: application/json
-Transfer-Encoding: chunked
-Date: Sat, 01 Aug 2026 17:12:28 GMT
-
-{"timestamp":"2026-08-01T17:12:28.962Z","status":404,"error":"Not Found","path":"/"}
